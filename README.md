@@ -1,9 +1,9 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Mahtani&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20IT%20Systems%20Administrator&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Mahtani&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20Technical%20Support%20Engineer&descAlignY=58&descSize=20&stroke=00000000" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=IT+Team+Lead+%7C+Systems+Administrator;Microsoft+365+%C2%B7+Entra+ID+%C2%B7+Intune;Certified+Azure+Administrator+(AZ-104);AWS+Solutions+Architect+in+Progress" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Cloud+%26+Technical+Support+Engineer;IT+Team+Lead+%7C+Systems+Administrator;Microsoft+365+%C2%B7+Entra+ID+%C2%B7+Intune;Certified+Azure+Administrator+(AZ-104);AWS+Solutions+Architect+in+Progress" alt="Typing SVG"/>
 
 <br/>
 
@@ -30,9 +30,9 @@
 ## 💼 About Me
 
 ```text
-IT Team Lead & Systems Administrator managing enterprise infrastructure
-across US and India offices — Microsoft 365, Entra ID, Intune, Active
-Directory and Windows Server at scale.
+Cloud & Technical Support Engineer — IT Team Lead managing enterprise
+infrastructure across US and India offices: Microsoft 365, Entra ID,
+Intune, Active Directory and Windows Server at scale.
 ```
 
 - 🔧 **Systems Administration** — Leading IT operations and a team of technicians on an international remote contract, reporting directly to the CTO
@@ -41,7 +41,7 @@ Directory and Windows Server at scale.
 - 🛠️ **Automation Mindset** — PowerShell scripting for M365 administration, identity governance and device management
 - 🌍 **Bilingual Professional** — Native Spanish, full professional English
 
-> **Open To:** Remote Cloud / Systems Administrator roles · Azure & M365 environments · European market
+> **Open To:** Remote Cloud & Technical Support Engineer roles · Azure & M365 environments · European market
 
 ---
 
@@ -304,7 +304,7 @@ exploring:
   - Infrastructure automation and scripting (Python)
 
 open_to:
-  - Remote Cloud / Systems Administrator roles
+  - Remote Cloud & Technical Support Engineer roles
   - Azure & Microsoft 365 focused positions
   - European market · English / Spanish
 ```
@@ -327,6 +327,6 @@ open_to:
 
 *"Infrastructure done right is invisible — that's the goal."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&stroke=00000000" width="100%"/>
 
 </div>
