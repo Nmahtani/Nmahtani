@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Mahtani&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20Technical%20Support%20Engineer&descAlignY=58&descSize=20&stroke=00000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Mahtani&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26amp%3B%20Technical%20Support%20Engineer&descAlignY=58&descSize=20&stroke=00000000" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Cloud+%26+Technical+Support+Engineer;IT+Team+Lead+%7C+Systems+Administrator;Microsoft+365+%C2%B7+Entra+ID+%C2%B7+Intune;Certified+Azure+Administrator+(AZ-104);AWS+Solutions+Architect+in+Progress" alt="Typing SVG"/>
 
@@ -252,16 +252,6 @@ Technical engineering roles across healthcare and pharmaceutical environments.
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Nmahtani&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nmahtani&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
