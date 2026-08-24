@@ -1,9 +1,9 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Mahtani&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26amp%3B%20Technical%20Support%20Engineer&descAlignY=58&descSize=20&stroke=00000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Mahtani&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Consultant%20%26amp%3B%20Technical%20Support%20Engineer&descAlignY=58&descSize=20&stroke=00000000" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Cloud+%26+Technical+Support+Engineer;IT+Team+Lead+%7C+Systems+Administrator;Microsoft+365+%C2%B7+Entra+ID+%C2%B7+Intune;Certified+Azure+Administrator+(AZ-104);AWS+Solutions+Architect+in+Progress" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Consultant+%26+Technical+Support+Engineer;IT+Team+Lead+%7C+Systems+Administrator;Microsoft+365+%C2%B7+Entra+ID+%C2%B7+Intune;Certified+Azure+Administrator+(AZ-104);AWS+Solutions+Architect+in+Progress" alt="Typing SVG"/>
 
 <br/>
 
@@ -30,8 +30,8 @@
 ## 💼 About Me
 
 ```text
-Cloud & Technical Support Engineer — IT Team Lead managing enterprise
-infrastructure across US and India offices: Microsoft 365, Entra ID,
+Consultant & Technical Support Engineer managing enterprise
+infrastructure: Microsoft 365, Entra ID,
 Intune, Active Directory and Windows Server at scale.
 ```
 
